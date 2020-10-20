@@ -16,16 +16,16 @@ In the project directory, run:
 
 #### `npm start`
 
-This runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This runs the app in the development mode.<br/>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br/>
 The page will reload if you make edits.
 
 #### `npm run build`
 
-Builds the app as a usable Chrome Extension to the **build** folder.
+Builds the app as a usable Chrome Extension to the **build** folder.<br/>
 Navigate to **chrome://extensions** in Chrome, then click **Load unpacked** and select the base **build** folder.<br/>
 After loading the extension, it can be debugged in the same way as the web app.
 
 ### et cetera
 
-Noteworthy to checkout the manifest.json and background scripts. Sample background.ts and contentscript.ts is provided.
+Noteworthy to checkout the manifest.json and background scripts. Sample background.ts and contentscript.ts are provided.
