@@ -1,6 +1,6 @@
 # React Mirror ![](public/mirror64.png)
 
-##### Create a React App and mirror it in a Chrome Extension.
+### Create a React App and mirror it in a Chrome Extension.
 
 ![React Mirror](public/screeny.png)
 
@@ -26,6 +26,6 @@ Builds the app as a usable Chrome Extension to the **build** folder.
 Navigate to **chrome://extensions** in Chrome, then click **Load unpacked** and select the base **build** folder.<br/>
 After loading the extension, it can be debugged in the same way as the web app.
 
-## et cetera
+### et cetera
 
 Noteworthy to checkout the manifest.json and background scripts. Sample background.ts and contentscript.ts is provided.
