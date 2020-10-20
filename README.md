@@ -2,15 +2,11 @@
 
 ### Create a React App and mirror it in a Chrome Extension.
 
+This is a lightweight React App using Typescript, Webpack, and SASS that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It can be built into a Chrome Extension and developed upon in tangent.<br/>
+
 ![React Mirror](public/screeny.png)
 
-This is a lightweight React App using Typescript, Webpack, and SASS that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It can be built into a Chrome Extension and developed upon in tangent.<br />
-
-Be sure node is installed.
-
-### Available Scripts
-
-In the project directory, run:
+### Run It
 
 #### `npm i`
 
@@ -28,4 +24,4 @@ After loading the extension, it can be debugged in the same way as the web app.
 
 ### et cetera
 
-Noteworthy to checkout the manifest.json and background scripts. Sample background.ts and contentscript.ts are provided.
+Noteworthy to checkout the manifest.json and background and content scripts. Plenty of literature out there. 😎
