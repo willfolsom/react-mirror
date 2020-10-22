@@ -10,5 +10,8 @@
   "icons": {
     "128": "mirror.png"
   },
+  "background": {
+    "scripts": ["background.ts"]
+},
   "permissions": ["tabs", "activeTab", "storage"]
 }
