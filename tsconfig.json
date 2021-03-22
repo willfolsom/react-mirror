@@ -17,9 +17,12 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react"
+    "jsx": "react",
+    "noFallthroughCasesInSwitch": true
   },
   "include": [
-    "src", "public/contentscript.ts", "public/background.ts"
+    "src",
+    "public/contentscript.ts",
+    "public/background.ts"
   ]
 }
